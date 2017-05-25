@@ -10,7 +10,7 @@ Set up Github API username and password and also mysql credentials in config fil
 
     /app/config/config.php
     
-    ### GUI
+## Usage
 To run application go to:
 
     http://localhost/gitHubApi
