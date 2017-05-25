@@ -1,0 +1,23 @@
+{
+  "name": "Densou test app",
+  "authors": [
+    {
+      "name": "Tomasz Falkowski"
+    }
+  ],
+  "require": {
+    "php": ">=7.0",
+    "tan-tan-kanarek/github-php-client": "^1.0"
+  },
+  "require-dev": {
+
+  },
+  "config" : {
+    "vendor-dir" : "app/vendor"
+  },
+  "autoload": {
+    "psr-4": {
+
+    }
+  }
+}
